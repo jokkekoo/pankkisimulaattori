@@ -1,2 +1,2 @@
 # BankSimul_ryhma_04
-C++ , NodeJS ja MySQL
+C++ , NodeJS and MySQL
